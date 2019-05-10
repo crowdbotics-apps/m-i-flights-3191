@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT m_i_flights_3191.wsgi:application
